@@ -60,11 +60,11 @@
       <category term="技术" scheme="https://1232333.xyz/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="悦读" scheme="https://1232333.xyz/tags/%E6%82%A6%E8%AF%BB/"/>
-    
       <category term="jsDelivr" scheme="https://1232333.xyz/tags/jsDelivr/"/>
     
       <category term="PicGo" scheme="https://1232333.xyz/tags/PicGo/"/>
+    
+      <category term="悦读" scheme="https://1232333.xyz/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
@@ -86,9 +86,9 @@
       <category term="技术" scheme="https://1232333.xyz/categories/%E6%8A%80%E6%9C%AF/"/>
     
     
-      <category term="web" scheme="https://1232333.xyz/tags/web/"/>
-    
       <category term="悦读" scheme="https://1232333.xyz/tags/%E6%82%A6%E8%AF%BB/"/>
+    
+      <category term="web" scheme="https://1232333.xyz/tags/web/"/>
     
   </entry>
   
